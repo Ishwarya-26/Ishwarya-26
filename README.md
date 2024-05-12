@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ishwarya
 - 👀 I’m interested in unlocking insights from data.
 - 🎓 I hold a degree in Mathematics which has equipped me with a strong foundation in statistics, problem solving, and critical thinking.
-- 🎯 Currently seeking opportunities in data analyst roles where I can apply my analytical skills and contribute to business growth and innovation.
+- 🎯 Currently seeking opportunities in data analyst role where I can apply my analytical skills and contribute to business growth and innovation.
 - 📫 You can reach me through my Linkedin profile https://www.linkedin.com/in/ishwarya-analyst/
   
 <!---
