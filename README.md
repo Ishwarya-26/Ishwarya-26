@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ishwarya
 - 👀 I’m interested in unlocking insights from data.
 - 🎓 I hold a degree in Mathematics which has equipped me with a strong foundation in statistics, problem solving, and critical thinking.
-- 👩🏻‍💻💡Expanding my skills by learning Qlik Sense and GCP.
+- 👩🏻‍💻💡Expanding my skills by learning GCP.
 - 🎯 Currently seeking opportunities in data analyst role where I can apply my analytical skills and contribute to business growth and innovation.
 - 💻Here's my portfolio https://ishwarya.carrd.co/
 - 📫 You can reach me through my Linkedin profile https://www.linkedin.com/in/ishwarya-analyst/
